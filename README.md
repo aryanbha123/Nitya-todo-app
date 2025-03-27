@@ -1,7 +1,7 @@
 # Nitya-todo-app
 JAVA SWING Application
 <br>
-first change by jaggu
+Jaggu was here
 <br>
 Aryan Bhandari is here
 <br>
