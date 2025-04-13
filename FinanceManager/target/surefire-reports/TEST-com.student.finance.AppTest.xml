@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.student.finance.AppTest" time="0.031" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="d:\Desktop\FinanceManager\target\test-classes;d:\Desktop\FinanceManager\target\classes;C:\Users\nitya\.m2\repository\org\mongodb\mongodb-driver-sync\4.11.0\mongodb-driver-sync-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\bson\4.11.0\bson-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\mongodb-driver-core\4.11.0\mongodb-driver-core-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\bson-record-codec\4.11.0\bson-record-codec-4.11.0.jar;C:\Users\nitya\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin"/>
+    <property name="sun.java.command" value="C:\Users\nitya\AppData\Local\Temp\surefire18288264358419281533\surefirebooter-20250413155750748_3.jar C:\Users\nitya\AppData\Local\Temp\surefire18288264358419281533 2025-04-13T15-57-50_449-jvmRun1 surefire-20250413155750748_1tmp surefire_0-20250413155750748_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="d:\Desktop\FinanceManager\target\test-classes;d:\Desktop\FinanceManager\target\classes;C:\Users\nitya\.m2\repository\org\mongodb\mongodb-driver-sync\4.11.0\mongodb-driver-sync-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\bson\4.11.0\bson-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\mongodb-driver-core\4.11.0\mongodb-driver-core-4.11.0.jar;C:\Users\nitya\.m2\repository\org\mongodb\bson-record-codec\4.11.0\bson-record-codec-4.11.0.jar;C:\Users\nitya\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\nitya"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="d:\Desktop\FinanceManager"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\nitya\AppData\Local\Temp\surefire18288264358419281533\surefirebooter-20250413155750748_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.6+7-LTS"/>
+    <property name="user.name" value="nitya"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-21.0.6+7"/>
+    <property name="localRepository" value="C:\Users\nitya\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\nitya\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.6"/>
+    <property name="user.dir" value="d:\Desktop\FinanceManager"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\gradle\latest\bin;C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\maven\latest\bin;C:\Users\nitya\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\nitya\Downloads\apache-maven-3.9.9\bin;C:\Users\nitya\AppData\Local\Programs\Python\Launcher\;C:\Users\nitya\AppData\Local\Microsoft\WindowsApps;C:\Users\nitya\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\flutter\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\nitya\AppData\Roaming\npm;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Java\jdk-24\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="21.0.6+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.student.finance.AppTest" time="0.005"/>
+</testsuite>
